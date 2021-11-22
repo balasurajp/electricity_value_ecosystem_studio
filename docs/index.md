@@ -158,7 +158,7 @@ TCS has been extensively testing this platform's technology through five real-wo
   _NOTE: There is only limited information regarding the project implementation and no project code here due to TCS confidentiality and Intellectual property rights_
 
 # Research Outcomes
-  Bidding Strategy for Two-Sided Electricity Markets: A Reinforcement Learning based Framework. Publication dated Nov 1, 2020 at BuildSys '20: Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (https://dl.acm.org/doi/10.1145/3408308.3427976)
+  - Bidding Strategy for Two-Sided Electricity Markets: A Reinforcement Learning based Framework dated Nov 1, 2020 | BuildSys '20: Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (https://dl.acm.org/doi/10.1145/3408308.3427976)
 
 # References
   https://www.tcs.com/reimagining-research/power-platform
